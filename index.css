@@ -1,0 +1,50 @@
+
+#wrapper {
+	margin: 20px auto;
+	width: 1100px;
+	height: 600px;
+	border: solid black 2px;
+	background-image: url('images/1.jpg');
+	opacity: 0.9;
+
+}
+
+button {
+	margin: 40px auto;
+	width: 200px;
+	height: 60px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	padding: 10px;
+	font-family:'Bangers', cursive;
+	font-size: 30px;
+	cursor: pointer;
+	background-color: #94090D;
+	border: solid 2px #94090D;
+	border-radius: 8px;
+}
+
+button:hover {
+	background-color: #660000;
+	border: solid 2px #660000;
+}
+
+#countdownclock {
+    height: 260px;
+    width: 500px;
+    margin: 115px auto 20px;
+    padding-top: 20px;
+    border: black solid 1px;
+    background-color: white;
+    opacity: 0.5;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    }
+
+span {
+font-size: 1000%
+
+}
+
+
