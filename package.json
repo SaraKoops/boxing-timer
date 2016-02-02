@@ -1,0 +1,22 @@
+{
+  "name": "boxing-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraKoops/boxing-timer.git"
+  },
+  "author": "sara koops",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraKoops/boxing-timer/issues"
+  },
+  "homepage": "https://github.com/SaraKoops/boxing-timer#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
